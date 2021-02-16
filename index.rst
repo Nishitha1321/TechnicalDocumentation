@@ -9,6 +9,8 @@ Welcome to GITHUB documentation!
 .. toctree::
    :maxdepth: 2
    :numbers:
+   
+   sample.md
 
 
 
